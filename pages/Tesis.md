@@ -1,7 +1,6 @@
 - Word embedding
-	- [[Pytorch character embedding]]
-	- [[Character level embedding]]
-	-
+	- [[Pytorch chars embedding (tutorial)]]
+	- [[Character level embedding - explanation & code]]
 -
 - Visualization:
 	- https://www.youtube.com/watch?v=TUXbXwu17KE
