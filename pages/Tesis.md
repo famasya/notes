@@ -1,0 +1,4 @@
+- [[Pytorch word embedding]]
+- Visualization:
+	- https://www.youtube.com/watch?v=TUXbXwu17KE
+	-
