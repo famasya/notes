@@ -17,6 +17,7 @@
 		  print(maxnorm) # result = 3
 		  ```
 	- Understand reguralization:
+	  id:: 612e77ab-6ea0-48f3-af93-3a340eb3e3e5
 	  >  Regularizations are techniques used to reduce the error by fitting a function appropriately on the given training set and avoid overfitting.
 	  
 	  source: https://towardsdatascience.com/regularization-an-important-concept-in-machine-learning-5891628907ea

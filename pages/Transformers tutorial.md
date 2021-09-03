@@ -1,0 +1,5 @@
+- Transformers from scratch
+- {{youtube https://www.youtube.com/watch?v=U0s0f995w14}}
+- Classification with transformers: https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb
+- Pytorch transformers: https://towardsdatascience.com/a-detailed-guide-to-pytorchs-nn-transformer-module-c80afbc9ffb1
+-

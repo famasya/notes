@@ -1,0 +1,1 @@
+- Issue utama: sinkronisasi antar branch faskes

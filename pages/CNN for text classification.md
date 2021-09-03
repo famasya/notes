@@ -1,0 +1,1 @@
+- http://www.davidsbatista.net/blog/2018/03/31/SentenceClassificationConvNets {{embed [[]]}}
