@@ -5,14 +5,24 @@
 	- [[Transformers tutorial]]
 	- [[NER with transformers (tutorial)]]
 	- [[Attention visualization]]
+	- BERT for NER finetuning: https://colab.research.google.com/drive/1m-C-bWYvhej2eoRfkk3sKBdQHWRWw_Xu
+	- Finetuning BART for custom loss: https://discuss.huggingface.co/t/finetuning-bart-using-custom-loss/4060
+	- Intepreting BERT model: https://captum.ai/tutorials/Bert_SQUAD_Interpret
+	-
 - Visualization:
 	- https://www.youtube.com/watch?v=TUXbXwu17KE
 -
-### CNN
-- Tutorial
-	- [[Understanding CNN for NLP]]
-	- [[CNN for text classification]]
-	-
+- ### CNN
+  collapsed:: true
+	- Tutorial
+		- [[Understanding CNN for NLP]]
+		- [[CNN for text classification]]
+		-
+- ### Related
+	- [[Multilabel classification with Transformers]]
+	- Weighted loss in in BertForTokenClassification: https://github.com/huggingface/transformers/issues/9625
+-
+-
 -
 ### Ebook
 - NLP from scratch https://arxiv.org/pdf/1103.0398.pdf
