@@ -1,3 +1,2 @@
-- [[ASIIN]]
-- [[Auto update WSL2 IP address]]
+- [[auto update wsl2 ip address]]
 -
