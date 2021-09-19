@@ -1,0 +1,3 @@
+- Link: https://pageperso.lis-lab.fr/benoit.favre/pstaln
+- Word embedding: https://pageperso.lis-lab.fr/benoit.favre/pstaln/09_embedding_evaluation.html
+-

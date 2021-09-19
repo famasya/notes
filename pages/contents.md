@@ -1,4 +1,3 @@
 * [[Tesis]]
-* [[Notes]]
 * [[Trustmedis]]
-* [[Tutorial]]
+*
