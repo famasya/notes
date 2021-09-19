@@ -1,3 +1,2 @@
-- Meeting notes
-	- [[Primamedix x TM x SAP (1 Sept 2021)]]
-	-
+- [[Meet with biznet 16 Sept]]
+-
